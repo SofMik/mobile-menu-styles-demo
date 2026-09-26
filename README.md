@@ -1,7 +1,7 @@
 ## Build output.
 
 Mobile Menu Styles
-Live Demo: https://sofmik.github.io/mobile-menu-demo/
+Live Demo: https://sofmik.github.io/mobile-menu-styles-demo/
 
 © 2026 SofMik — All Rights Reserved.
 
